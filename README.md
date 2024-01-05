@@ -1,23 +1,32 @@
-<h1 align="center">Hi 👋, I'm Matheus Kenji</h1>
-<h3 align="center">A frontend developer from Brazil</h3>
+<!-- Header Section -->
+# Hello, I'm Matheus Kenji 👋
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I'm a passionate Front-End Developer based in São Paulo, Brazil. Currently, my focus is on HTML, CSS, and JavaScript, with a special interest in learning and mastering React.
 
-- 🌱 I’m currently learning **ReactJS**
+<!-- Skills Section -->
+## Skills
 
-- 📫 How to reach me **matheuskenji5@gmail.com**
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Responsive Web Design
+- Git & GitHub
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/matheus-kenji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-kenji/" height="30" width="40" /></a>
-</p>
+<!-- GitHub Stats Section -->
+## GitHub Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+![Matheus Kenji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusknn&show_icons=true&hide=contribs,prs&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusknn&show_icons=true&locale=en&layout=compact" alt="matheusknn" /></p>
+<!-- Top Languages Section -->
+## Top Languages
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusknn&show_icons=true&locale=en" alt="matheusknn" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusknn&layout=compact&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusknn&" alt="matheusknn" /></p>
+<!-- Connect with Me Section -->
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/matheus-kenji/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-ff69b4)](mailto:matheuskenji5@gmail.com)
+
 
