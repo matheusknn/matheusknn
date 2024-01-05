@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Kenji</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
+<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
