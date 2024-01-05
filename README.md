@@ -1,7 +1,7 @@
 <!-- Header Section -->
 # Hello, I'm Matheus Kenji 👋
 
-I'm a passionate Front-End Developer based in São Paulo, Brazil. Currently, my focus is on HTML, CSS, and JavaScript, with a special interest in learning and mastering React.
+I'm a passionate Front-End Developer from Bastos, Brazil. Currently, my focus is on HTML, CSS, and JavaScript, with a special interest in learning and mastering React.
 
 <!-- Skills Section -->
 ## Skills
