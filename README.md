@@ -30,4 +30,4 @@ I'm a passionate Front-End Developer from Bastos, Brazil. Currently, my focus is
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/matheus-kenji/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-ff69b4)](mailto:matheuskenji5@gmail.com)
 
--matheuskenji5@gmail.com+
+matheuskenji5@gmail.com
