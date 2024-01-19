@@ -12,7 +12,7 @@ I'm a passionate Front-End Developer from Bastos, Brazil. I have knowledge in HT
 - React
 - Responsive Web Design
 - Git & GitHub
--currently learning java
+- currently learning java
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats
