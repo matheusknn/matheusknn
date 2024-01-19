@@ -9,7 +9,6 @@ I'm a passionate Front-End Developer from Bastos, Brazil. I have knowledge in HT
 - HTML5
 - CSS3
 - JavaScript
-- React
 - Responsive Web Design
 - Git & GitHub
 - currently learning java
