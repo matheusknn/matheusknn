@@ -1,7 +1,7 @@
 <!-- Header Section -->
 # Hello, I'm Matheus Kenji 👋
 
-I'm a passionate Front-End Developer from Bastos, Brazil. Currently, my focus is on HTML, CSS, and JavaScript, I'm currently learning Java.
+I'm a passionate Front-End Developer from Bastos, Brazil. I have knowledge in HTML, CSS and JavaScript. I'm currently learning Java.
 
 <!-- Skills Section -->
 ## Skills
@@ -12,6 +12,7 @@ I'm a passionate Front-End Developer from Bastos, Brazil. Currently, my focus is
 - React
 - Responsive Web Design
 - Git & GitHub
+-currently learning java
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats
