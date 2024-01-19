@@ -11,7 +11,7 @@ I'm a passionate Full Stack Developer from Bastos, Brazil. I have knowledge in H
 - JavaScript
 - Responsive Web Design
 - Git & GitHub
-- currently learning java
+- Currently Learning Java
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats
