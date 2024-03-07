@@ -12,6 +12,7 @@ I'm a passionate Back End Developer from Bastos, Brazil. I have knowledge in HTM
 - Responsive Web Design
 - Git & GitHub
 - Currently Learning Java And Spring
+- MySQL
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats
