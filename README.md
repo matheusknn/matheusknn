@@ -1,7 +1,7 @@
 <!-- Header Section -->
 # Hello, I'm Matheus Kenji 👋
 
-I'm a passionate Back End Developer from Bastos, Brazil. I have knowledge in HTML, CSS and JavaScript. I'm currently learning Java.
+I'm a passionate Back End Developer from Bastos, Brazil. I have knowledge in HTML, CSS and JavaScript. I'm currently learning Java and Spring.
 
 <!-- Skills Section -->
 ## Skills
